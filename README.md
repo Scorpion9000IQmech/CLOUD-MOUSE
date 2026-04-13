@@ -5,3 +5,9 @@ Here is shows my mouse designed on onshape in the form of a CLOUD, but its mostl
 <img width="435" height="302" alt="image" src="https://github.com/user-attachments/assets/a58851ca-42de-47f2-908d-33cae2bf6faa" />
 
 I will be using a bambu lab mouse kit as the base for my custom mouse.
+
+https://ar.aliexpress.com/i/1005007239749404.html?gatewayAdapt=glo2ara
+
+that is the link to the bambu lab mouse kit, the original bambu lab store unfotunately does not deliver to my location
+and I will print the mouse part myself, it will take 7 hours and 105 grams of filament, which costs around 1.82 USD
+self sourced - generally $16.1 USD
