@@ -6,7 +6,7 @@ Here is shows my mouse designed on onshape in the form of a CLOUD, but its mostl
 
 https://cad.onshape.com/documents/5028e1686a32200f63f8a20e/w/214b396c52340f83c0d033ca/e/751495b1f29f076007e37fda?renderMode=0&uiState=69eb29abf46d516a4743eaaf
 
-here is my onshape project link
+here is my onshape project link(source file since I was asked)
 
 I will be using a bambu lab mouse kit as the base for my custom mouse.
 
