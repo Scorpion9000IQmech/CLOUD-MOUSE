@@ -4,7 +4,7 @@ Here is shows my mouse designed on onshape in the form of a CLOUD, but its mostl
 
 <img width="435" height="302" alt="image" src="https://github.com/user-attachments/assets/a58851ca-42de-47f2-908d-33cae2bf6faa" />
 
-https://cad.onshape.com/documents/5028e1686a32200f63f8a20e/w/214b396c52340f83c0d033ca/e/751495b1f29f076007e37fda?renderMode=0&uiState=69ec817e85827e36fd865443
+https://cad.onshape.com/documents/5028e1686a32200f63f8a20e/w/214b396c52340f83c0d033ca/e/751495b1f29f076007e37fda
 
 here is my onshape project link(source file)
 
