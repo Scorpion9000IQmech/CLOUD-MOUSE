@@ -16,7 +16,7 @@ that is the link to the bambu lab mouse kit, the original bambu lab store unfotu
 and I will print the mouse part myself, it will take 7 hours and 105 grams of filament, which costs around 1.82 USD
 self sourced - generally $16.1 USD
 
-Instructions(consult the original file with all parts for reference):
+## Instructions(consult the original file with all parts for reference):
 
 1.print the shell, MID, BASE, and battery tab(that is everything which is not provided in the kit)
 
