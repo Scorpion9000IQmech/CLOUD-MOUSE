@@ -2,7 +2,7 @@
 
 Here is shows my mouse designed on onshape in the form of a CLOUD, but its mostly just wiggly and wobbly, I like the design, though I would have preferred to fillet the edges of the clkoud to make it more round, It does not allow me to do so, so i must stick to the wobbly surface
 
-<img width="435" height="302" alt="image" src="https://github.com/user-attachments/assets/a58851ca-42de-47f2-908d-33cae2bf6faa" />
+<img width="1069" height="799" alt="image" src="https://github.com/user-attachments/assets/0fbff91a-f3d0-47b3-92d1-0d54564cd709" />
 
 https://cad.onshape.com/documents/5028e1686a32200f63f8a20e/w/214b396c52340f83c0d033ca/e/751495b1f29f076007e37fda
 
